@@ -1,0 +1,104 @@
+body
+{
+    background-color: rgb(63, 63, 113);
+    background-image: url('https://wallpapers.com/images/hd/lupin-iii-the-castle-of-cagliostro-1238-x-1600-wallpaper-yy18os6au8gjuqfs.jpg');
+    background-size: 1400px;
+    width: 100%;
+    height: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container
+{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 10px;
+}
+
+.item
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0); 
+    opacity: 0.9;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.container2
+{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 10px;
+}
+
+.item2
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    opacity: 0.9;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.container3
+{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 10px;
+}
+
+.item3
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    opacity: 0.9;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.container4
+{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 10px;
+}
+
+.item4
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    opacity: 0.9;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.container5
+{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+    padding: 10px;
+}
+
+.item5
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0); 
+    opacity: 0.9;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+figure {
+  display: flex;
+  justify-content: center;
+}
